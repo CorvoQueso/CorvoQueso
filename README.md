@@ -1,6 +1,6 @@
 ## Muy Buenas 👋
 
-<img scr="Assets/Pictures/trip to málaga" width=100px align=left>
+<img scr="Assets/Pictures/trip to málaga.png" width=100px align=left>
 
 I'm a serious cat, here to do serious business
 
