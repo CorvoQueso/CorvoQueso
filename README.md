@@ -1,4 +1,4 @@
-## Muy Buenas 👋
+## Muy Buenas & Happy Pride 🏳️‍🌈👋
 
 I'm a serious cat, here to do serious business 
 
@@ -23,6 +23,8 @@ Saved the president of Ecuador from rogue shoe
 Successfully closed vim
 
 how earth do i move past this image
+
+⠀ <!-- blank space char -->
 
 ⠀ <!-- blank space char -->
 
