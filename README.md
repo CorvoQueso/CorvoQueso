@@ -34,7 +34,7 @@ favourite nando's order: houmous with peri peri drizzle, extra hot grilled chick
 
 ### languages (wip lul)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CorvoQueso&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corvoqueso&theme=dracula)
 
 <!--
 **CorvoQueso/CorvoQueso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
