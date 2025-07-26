@@ -1,6 +1,8 @@
-## Muy Buenas & Happy Pride 🏳️‍🌈👋
+## Muy Buenas & Happy Pride~ 🏳️‍🌈👋
 
 I'm a serious cat, here to do serious business 
+
+[![Static Badge](https://img.shields.io/badge/github-CorvoQueso-f4b8e4)](https://github.com/CorvoQueso) [![Static Badge](https://img.shields.io/badge/youtube-CorvoQueso-99d1db)](https://www.youtube.com/@corvo_queso)
 
 ### Experience: 
 - Once saw a rat outside
