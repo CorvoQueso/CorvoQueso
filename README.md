@@ -1,8 +1,10 @@
 ## Muy Buenas & Happy Pride~ 🏳️‍🌈👋
 
-I'm a serious cat, here to do serious business 
+Don't touch my cheese,  i stole it from a fox
 
-[![Static Badge](https://img.shields.io/badge/github-CorvoQueso-f4b8e4)](https://github.com/CorvoQueso) [![Static Badge](https://img.shields.io/badge/youtube-CorvoQueso-99d1db)](https://www.youtube.com/@corvo_queso)
+<!-- using catppuccin frappé colours -->
+
+[![Static Badge](https://img.shields.io/badge/Github-CorvoQueso-f4b8e4?logo=github)](https://github.com/CorvoQueso) [![Static Badge](https://img.shields.io/badge/YouTube-CorvoQueso-99d1db?logo=youtube)](https://www.youtube.com/@corvo_queso) [![Static Badge](https://img.shields.io/badge/❔-mysterVideo-cad3f5)](https://www.youtube.com/watch?v=926OJplCPg0)
 
 ### Experience: 
 - Once saw a rat outside
