@@ -1,4 +1,4 @@
-## Muy Buenas & Happy Pride~ 🏳️‍🌈👋
+## Muy Buenas ~ 🏳️‍🌈👋
 
 Don't touch my cheese,  i stole it from a fox
 
