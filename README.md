@@ -1,10 +1,6 @@
 ## Muy Buenas ~ 🏳️‍🌈👋
 
-<!-- using catppuccin frappé colours -->
-
 <img src="Assets/gifs/shaymin.gif" align=right width=30px>
-
-[![Static Badge](https://img.shields.io/badge/Github-CorvoQueso-f4b8e4?logo=github)](https://github.com/CorvoQueso) [![Static Badge](https://img.shields.io/badge/YouTube-CorvoQueso-99d1db?logo=youtube)](https://www.youtube.com/@corvo_queso) [![Static Badge](https://img.shields.io/badge/❔-mysterVideo-cad3f5)](https://www.youtube.com/watch?v=926OJplCPg0)
 
 Don't touch my cheese,  i stole it from a fox
 
