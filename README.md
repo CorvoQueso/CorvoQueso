@@ -32,6 +32,8 @@ how earth do i move past this image
 
 ### Further guff
 
+<img src="Assets/Pictures/coolmcgif.png" align=right width=300px>
+
 favourite nando's order: houmous with peri peri drizzle, extra hot grilled chicken wrap with chips, diet coke
 
 ### languages (wip lul)
